@@ -1,5 +1,5 @@
 
-* Author: Sunil Veeravalli
+Author: Sunil Veeravalli
 
 This is a case study to accurately find out the assigned gate for an aeroplane from sensor readings that will make the airport more efficient and improve its billing application.
 
