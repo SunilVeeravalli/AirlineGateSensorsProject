@@ -1,9 +1,10 @@
 
-Author: Sunil Veeravalli
+*Author: Sunil Veeravalli* 
 
 This is a case study to accurately find out the assigned gate for an aeroplane from sensor readings that will make the airport more efficient and improve its billing application.
 
 Upon extracting the zipped folder you received, the file structure you see will be as follows:
+
 ![folder structure](Images/folder%20structure.JPG)
 
 * **Folder: 'Scripts'**
@@ -33,6 +34,7 @@ Upon extracting the zipped folder you received, the file structure you see will 
 * On Windows computer after pip installation of jupyter notebook:
     * Open `cmd` prompt and change to path to your 'Cirium Project' directory
     * Type `jupyter notebook` and press enter
+    
     ![command prompt](Images/command%20prompt.JPG)
 
 ### File: '01_Importing and Cleaning.ipynb'
