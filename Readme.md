@@ -50,7 +50,7 @@ Upon extracting the zipped folder you received, the file structure you see will 
     * Open `cmd` prompt and change to path to your 'Cirium Project' directory
     * Type `jupyter notebook` and press enter
     
-    ![command prompt](Images/command%20prompt.JPG)
+    ![command prompt](Images/command%20prompt.png)
 
 ### File: '01_Importing and Cleaning.ipynb'
 * Imported data from 'Raw_Data' folder into jupyter notebook and then performed EDA analysis
