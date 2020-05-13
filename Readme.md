@@ -3,6 +3,21 @@
 
 This is a case study to accurately find out the assigned gate for an aeroplane from sensor readings that will make the airport more efficient and improve its billing application.
 
+### CASE
+The challenge problem involves an airport.  The airport has four gates and seven sensors placed around the airport.  The airport would like to know which gate the aircraft went to given the sensor readings.  Being able to accurately establish the assigned gate from sensor readings will make the airport more efficient and improve its billing application.  
+
+The airport has provided 2,000 examples of a gate assignment along with the readings of seven sensors at each assignment.  The challenge is to build a model that will accurately predict the gate based on the sensor readings available. 
+
+The following data files are available:
+* master.csv – Data on the gate assignments for incoming flights
+* assignment - The key of a gate assignment event provided by the airport
+* gate - The gate assigned when the aircraft opened its doors
+* stream[1-7].csv – Data from each sensor is provided in a separate file
+* assignment - The key of a gate assignment event provided by the airport
+* s[1-7] - A reading from the sensor at the event time
+* n[1-7] - A reading from the sensor at the event time
+
+### SOLUTION
 Upon extracting the zipped folder you received, the file structure you see will be as follows:
 
 ![folder structure](Images/folder%20structure.JPG)
