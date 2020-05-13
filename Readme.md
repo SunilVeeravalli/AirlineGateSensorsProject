@@ -17,7 +17,7 @@ The following data files are available:
 * s[1-7] - A reading from the sensor at the event time
 * n[1-7] - A reading from the sensor at the event time
 
-### SOLUTION
+### MY SOLUTION
 Upon extracting the zipped folder you received, the file structure you see will be as follows:
 
 ![folder structure](Images/folder%20structure.JPG)
